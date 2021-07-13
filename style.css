@@ -61,15 +61,30 @@ body{
  
 }
 .recipie{ 
-
+    margin-bottom: 15px;
     width: 40%;
     padding: 5px;
+    padding-left: 5px;
     padding-right: 5px;
     height: auto;
     box-shadow: 5px 5px 15px 15px gray;
     border-radius: 15px;
+    border-image-width: 5px;
    
 }
 #recepie-1{
   
+}
+.red{
+    color: navy; 
+    text-align: center;
+}
+#text{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+}
+#midle{
+    text-align: center;
+    
 }
