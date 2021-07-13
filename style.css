@@ -54,3 +54,22 @@ body{
 #center{
     text-align: center;
 }
+.flexible{
+    display: flex;
+    padding: 10px;
+    shape-margin: 30px;
+ 
+}
+.recipie{ 
+
+    width: 40%;
+    padding: 5px;
+    padding-right: 5px;
+    height: auto;
+    box-shadow: 5px 5px 15px 15px gray;
+    border-radius: 15px;
+   
+}
+#recepie-1{
+  
+}
